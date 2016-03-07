@@ -11,7 +11,7 @@ class tableConfig {
   // database password
   protected static $password = "";
   //database name
-  protected static $dbname = "test1";
+  protected static $dbname = "demo";
   static $con;
   function __construct() {
     self::$con = self::connect(); 
