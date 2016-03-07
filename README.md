@@ -9,4 +9,4 @@ step2:import the file demo.sql to the database, you get 3 tables
 
 step3:configure the config file present in the includes folder
 
-step4:execute the file index.php
+step4:execute the file index.html
